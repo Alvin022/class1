@@ -1,0 +1,44 @@
+.header{
+    border: 1px blue solid;
+    padding: 15px;
+    color: lightskyblue;
+    font-weight: 600;
+}
+
+.main{
+    border: 1px blue solid;
+    background-color: blue;
+    width: 100%;
+    padding: 100px;
+    margin-bottom: 16px;
+    color: white;
+    text-align: center;
+}
+
+.menu{
+    text-align: center;
+}
+
+.box1,
+.box2,
+.box3,
+.box4,
+.box5{
+    position: absolute;
+    margin-bottom: 48px;
+    height: 295px;
+    width: 320px;
+    border: 2px solid blue;
+}
+
+.box1{
+    
+}
+
+.box2{
+    
+}
+
+.box3{
+    
+}
