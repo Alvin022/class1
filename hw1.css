@@ -1,0 +1,19 @@
+.image {
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/808/860/53/%E8%94%A1%E5%BE%90%E5%9D%A4-%E5%B0%8F%E9%BB%91%E5%AD%90-ikun-basketball-hd-wallpaper-preview.jpg");
+  background-repeat: no-repeat;
+  postion: relative;
+  background-position: center;
+  background-size: cover;
+  height: 600px;
+  width: 1440px;
+}
+
+.text {
+  text-align: center;
+  postion: absolute;
+  color: purple;
+}
+
+h1 {
+  font-size: 50px;
+}
